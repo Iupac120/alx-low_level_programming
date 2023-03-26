@@ -11,8 +11,8 @@ int main(void)
 	unsigned int sum;
 	int count;
 
-	a = 0;
-	b = 1;
+	a = 1;
+	b = 2;
 
 	for (count = 0 ; count < 50 ; count++)
 	{
