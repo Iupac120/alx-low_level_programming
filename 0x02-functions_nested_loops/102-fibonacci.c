@@ -10,6 +10,7 @@ int main(void)
 	unsigned int b;
 	unsigned int sum;
 	int count;
+
 	a = 0;
 	b = 1;
 
