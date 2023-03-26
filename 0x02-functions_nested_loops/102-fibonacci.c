@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
  * main - function that prints fibonnaci number from 1 and 2
  *
