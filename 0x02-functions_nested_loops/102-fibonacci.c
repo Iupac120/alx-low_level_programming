@@ -7,13 +7,13 @@
  */
 int main(void)
 {
-	unsigned int a;
-	unsigned int b;
-	unsigned int sum;
+	unsigned long a;
+	unsigned long b;
+	unsigned long sum;
 	int count;
 
-	a = 1;
-	b = 2;
+	a = 0;
+	b = 1;
 
 	for (count = 0 ; count < 50 ; count++)
 	{
